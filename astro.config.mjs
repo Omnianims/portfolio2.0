@@ -8,8 +8,8 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://themewagon.github.io",
-  base: "/dark-minimal",
+  site: "https://omnianims.github.io",
+  base: "/portfolio2.0",
   integrations: [tailwind(), react()],
   vite: {
     resolve: {
